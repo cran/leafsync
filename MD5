@@ -1,0 +1,13 @@
+2f48c457006245c68f9e1b4e21b1e076 *DESCRIPTION
+1a1a1ed51ba9dd81fd88882cf210f6a0 *LICENSE
+1759d7e40f60aadd7444e8f60a6e0b16 *NAMESPACE
+007c42eccfbb80a4b99837ba3f5264ef *NEWS
+4c6cac54292f545c62d149828fbde71c *NEWS.md
+72fe2ab8b11b7454fd810e6d02ef7c0f *R/sync.R
+f769aae5dee360b00de0f3731d341bbd *R/utils.R
+c3d24f3b81cad2b18e0793055556a68f *README.md
+44e5c4f473973c925aa8997187f52bfb *inst/htmlwidgets/lib/Leaflet.Sync/L.Map.Sync.js
+e77b09746fdabd81ce4cfcc9e64a18f1 *inst/htmlwidgets/lib/Leaflet.Sync/LICENSE
+9489872b51002a7f79c4704d954406d5 *inst/htmlwidgets/lib/Leaflet.Sync/bower.json
+4f5000eac48b13b82e9b2ea77e58c048 *man/figures/README-sync.png
+ced4ced989c3acf0b55fa5ca157f8e18 *man/latticeView.Rd
